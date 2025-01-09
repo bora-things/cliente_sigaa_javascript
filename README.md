@@ -9,7 +9,12 @@ Este repositório implementa a integração com o SIGAA, tendo 2 principais func
 
 ### Crie sua Aplicação no Bifrost
 
-TBA.
+TODO
+
+- [ ] Configurar aplicação no Bifrost
+- [ ] Criar script que captura code retornado
+- [ ] Enviar requisição de autenticação e recebe o access_token
+- [ ] Mostrar índices acadêmicos do usuário
 
 Altere o arquivo `index.html` com o `client_id` da sua aplicação.
 
